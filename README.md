@@ -33,14 +33,14 @@ The system uses 4 AI agents that work together to plan a complete trip automatic
 
 Open the terminal inside the project folder and run:
 
-		python -m venv langgraph_env3
+		python -m venv venv
 
 
 Now activate the environment:
 
 #### Windows
 
-		langgraph_env3\Scripts\activate
+		.\venv\Scripts\activate
 
 
 ---
